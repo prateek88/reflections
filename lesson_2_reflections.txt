@@ -3,3 +3,9 @@ What happens when you initialize a repository? Why do you need to do it?
 It creates a directory called .git, when we intialize the repository. We need to do it to make it trackable via git.
 
 Staging area contains a file which is added to be committed. It shows the added file as a new file under the section "changes to be committed".
+
+check git diff --staged
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+adding one file and commiting with a message and then add another file and commit.
