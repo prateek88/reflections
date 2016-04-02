@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a directory called .git, when we intialize the repository. We need to do it to make it trackable via git.
+
+Staging area contains a file which is added to be committed. It shows the added file as a new file under the section "changes to be committed".
