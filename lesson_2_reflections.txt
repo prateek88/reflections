@@ -24,3 +24,4 @@ What is the result of merging two branches together? Why do we represent it in t
 
 we can see all commits made in two branches. And we can get a fully working version in one branch. Diagram is useful to know that which commits are going to be in final merge.
 
+master
