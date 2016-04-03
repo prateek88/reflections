@@ -17,3 +17,5 @@ If we are making some experimental version of our code, then we can create a new
 How do the diagrams help you visualize the branch structure?
 
 By diagram we can traverse back to initial commit and can know which commits are experimental and all branches. 
+
+currently on master and making a new commit, then merge and see the result
