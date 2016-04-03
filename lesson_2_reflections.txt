@@ -17,3 +17,7 @@ If we are making some experimental version of our code, then we can create a new
 How do the diagrams help you visualize the branch structure?
 
 By diagram we can traverse back to initial commit and can know which commits are experimental and all branches. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+we can see all commits made in two branches. And we can get a fully working version in one branch. Diagram is useful to know that which commits are going to be in final merge.
